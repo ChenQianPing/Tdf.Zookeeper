@@ -5,6 +5,12 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tdf.Zookeeper", "Tdf.Zookeeper\Tdf.Zookeeper.csproj", "{A4943E69-092D-42F6-8C78-15B5BD506AB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tdf.ZookeeperHelper", "Tdf.ZookeeperHelper\Tdf.ZookeeperHelper.csproj", "{0435DAB1-6292-4D01-9686-9EDD01C55745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZookeeperDemo01", "ZookeeperDemo01\ZookeeperDemo01.csproj", "{6CFF32DB-BC0E-4E98-88C9-C59F55E97307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZookeeperDemo02", "ZookeeperDemo02\ZookeeperDemo02.csproj", "{674A9B2B-7B62-4D60-900F-F10B52081408}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{A4943E69-092D-42F6-8C78-15B5BD506AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4943E69-092D-42F6-8C78-15B5BD506AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4943E69-092D-42F6-8C78-15B5BD506AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0435DAB1-6292-4D01-9686-9EDD01C55745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0435DAB1-6292-4D01-9686-9EDD01C55745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0435DAB1-6292-4D01-9686-9EDD01C55745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0435DAB1-6292-4D01-9686-9EDD01C55745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CFF32DB-BC0E-4E98-88C9-C59F55E97307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFF32DB-BC0E-4E98-88C9-C59F55E97307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFF32DB-BC0E-4E98-88C9-C59F55E97307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFF32DB-BC0E-4E98-88C9-C59F55E97307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{674A9B2B-7B62-4D60-900F-F10B52081408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674A9B2B-7B62-4D60-900F-F10B52081408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674A9B2B-7B62-4D60-900F-F10B52081408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674A9B2B-7B62-4D60-900F-F10B52081408}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
